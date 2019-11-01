@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<link rel="stylesheet" href="css/787.css">
+<div id = "mysait">
+</div>
+<div id = "head">
+</div>
+<div id = "menu">
+</div>
+<div id = "content">
+</div>
+<div id = "footer">
+</div>

@@ -1,0 +1,98 @@
+#mysait{
+	width: 900px;
+	outline: 2px inset #FFFF00;
+	margin:0 auto;
+	background-color: #000000;
+	 color: #000000;
+}
+h1 {text-align: center;
+color: #000000;}
+#head{
+	width: 900px;
+	height: 150px
+	background-color:#EEE8AA;
+	margin-bottom: 10px;
+}
+
+#menu{
+	background-color: #FFDAB9;
+	width:250px;
+	padding: 0px;
+	float: left;
+	margin-bottom: 10px: 
+	color:#FFFACD;
+	font-size: 18px;
+	height: 200px;
+	text-indent: 7px;
+}
+
+#content{
+	background-color: #F0E68C;
+	margin-bottom: 10px;
+	width: 400px;
+	padding: 0px;
+	float: right;
+	height: 200px;
+	font-size: 18px;
+	text-indent: 7px;
+}
+
+#footer{
+	clear: both;
+	height: 80px;
+	background-color: #FFEFD5;
+	margin-bottom: 10px;
+}
+
+
+p {padding-bottom: 1px;
+text-align: justify;}
+
+span {font-weight: bold;
+font-size: 25px;}
+
+#fire{
+	background-color:  #FFEFD5;
+	margin-bottom:10px;
+	height: 200px;
+	font-size: 18px;
+	padding: 0px;
+	float: right;
+	width: 250px;
+	text-indent: 7px;
+}
+
+#hell{
+	background-color:  #FFEFD5;
+	margin-bottom:10px;
+	height: 20px;
+	font-size: 18px;
+	padding: 0px;
+	float: center;
+	width: 900px;
+	text-indent: 7px;
+}
+
+a{
+	color: #8B4513;
+	text-decoration: none;
+	outline: none;
+}
+
+ li{
+	display: inline-block;
+}
+
+a:hover {color: #DDA0DD}
+
+img{
+	position:relative;
+	float: left;
+	padding: 5px;
+}
+text{
+	width: 600px;
+	background-color: #FFE4E1;
+	text-align: justify;
+	margin: 0 auto;
+}
